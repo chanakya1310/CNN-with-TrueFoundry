@@ -3,7 +3,6 @@ import logging
 
 from servicefoundry import Build, PythonBuild, Resources, Service
 
-
 # parsing the input arguments
 parser = argparse.ArgumentParser()
 parser.add_argument(
@@ -32,7 +31,7 @@ service = Service(
     env={
         # These will automatically map the secret value to the environment variable.
         "MLF_HOST": "https://app.develop.truefoundry.tech",
-        "MLF_API_KEY": "djE6dHJ1ZWZvdW5kcnk6Y2hhbmFreWF2a2Fwb29yOjdkMDg0MA==",
+        "MLF_API_KEY": "<YOUR API KEY HERE>",
         "MLF_MODEL_VERSION_FQN": args.model_version_fqn,
     },
     ports=[{"port": 4000}],
