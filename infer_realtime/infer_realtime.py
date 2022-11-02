@@ -48,7 +48,6 @@ async def predict_api(data: Data):
     img = base64.b64decode((data.data))
     stream = BytesIO(img)
     img = Image.open(stream)
-    
     test_img = img.resize((200, 200))
 
     test_img = image.img_to_array(test_img)
