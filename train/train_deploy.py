@@ -5,15 +5,12 @@ from servicefoundry import Build, Job, PythonBuild, Resources
 
 parser = argparse.ArgumentParser()
 parser.add_argument(
-    "--workspace_fqn", type = str, required = True, help = "fqn of the workspace to deploy to"
+    "--workspace_fqn", type=str, required=True, help="fqn of the workspace to deploy to"
 )
 
 args = parser.parse_args()
 
-python_build = PythonBuild(
-    python_version = "3.9",
-    command = "python train.py"
-)
+python_build = PythonBuild(python_version="3.9", command="python train.py")
 
 env = {
     # These will automatically map the secret value to the environment variable.
