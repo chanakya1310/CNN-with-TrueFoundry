@@ -8,6 +8,21 @@ Through this repo, our aim is to build a full-fledged Streamlit application wher
 
 We will be building a <b> Cat vs Dog Classifier </b>, and make sure to have an API key before you get started with building.
 
+### Setup
+
+
+* Clone the Repository using:
+```
+git clone https://github.com/chanakya1310/CNN-with-TrueFoundry.git
+```
+
+* Setup and activate a virtual environment
+
+* Install the packages using:
+```
+pip3 install -r requirements.txt
+```
+
 ### Building a CNN Locally
 
 The first step is to develop a CNN for the task locally, and the code for that can be found in the train folder. In order to run the file, use the command:
