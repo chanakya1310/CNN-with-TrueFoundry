@@ -14,7 +14,7 @@ from keras.preprocessing.image import ImageDataGenerator
 
 client = mlfoundry.get_client(
     tracking_uri="https://app.develop.truefoundry.tech/",
-    api_key="djE6dHJ1ZWZvdW5kcnk6Y2hhbmFreWF2a2Fwb29yOjdkMDg0MA==",
+    api_key="<ENTER-YOUR-API-KEY>",
 )
 run = client.create_run(
     project_name="cat-and-dog-classifier-1",
