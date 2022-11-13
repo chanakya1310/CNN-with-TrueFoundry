@@ -71,6 +71,8 @@ python3 stream_deploy.py
 
 Once deployed, you will get a URL endpoint for the deployed Streamlit app. 
 
+You can find some sample images in the 'Assets' folder for testing out the streamlit application.
+
 ### Colab Notebook
 
 I have made a colab notebook for the same, you can find the notebook [here](https://colab.research.google.com/drive/1MY34r-5IhQG2xPmVcjKJjQz3bkpNtv3t?usp=sharing).
