@@ -78,8 +78,8 @@ I have made a colab notebook for the same, you can find the notebook [here](http
 
 ## Streamlit Application
 
-![Streamlit Application](assets/streamlit_application.png)
+![Streamlit Application](Assets/streamlit_application.png)
 
-![Classifying Image as Dog](assets/dog_example.png)
+![Classifying Image as Dog](Assets/dog_example.png)
 
-![Classifying Image as Cat](assets/cat_example.png)
+![Classifying Image as Cat](Assets/cat_example.png)
