@@ -71,5 +71,15 @@ python3 stream_deploy.py
 
 Once deployed, you will get a URL endpoint for the deployed Streamlit app. 
 
+### Colab Notebook
+
+I have made a colab notebook for the same, you can find the notebook [here](https://colab.research.google.com/drive/1MY34r-5IhQG2xPmVcjKJjQz3bkpNtv3t?usp=sharing).
 
 
+## Streamlit Application
+
+![Streamlit Application](assets/streamlit_application.png)
+
+![Classifying Image as Dog](assets/dog_example.png)
+
+![Classifying Image as Cat](assets/cat_example.png)
