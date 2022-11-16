@@ -75,7 +75,7 @@ You can find some sample images in the 'Assets' folder for testing out the strea
 
 ### Colab Notebook
 
-I have made a colab notebook for the same, you can find the notebook [here](https://colab.research.google.com/drive/1MY34r-5IhQG2xPmVcjKJjQz3bkpNtv3t?usp=sharing).
+I have made a colab notebook for the same, you can find the notebook [here](https://colab.research.google.com/drive/1fxMPSXuM1uxs5qYIHdP5jewTRMT01r3e?usp=sharing).
 
 
 ## Streamlit Application
