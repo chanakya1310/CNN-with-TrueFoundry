@@ -69,7 +69,7 @@ Once you are satisfied with the application, replace your Workspace FQN in the '
 python3 stream_deploy.py
 ```
 
-Once deployed, you will get a URL endpoint for the deployed Streamlit app. 
+Once deployed, you will get a URL endpoint for the deployed Streamlit app. Checkout the application [here](https://streamlit-demo-projects.tfy-ctl-euwe1-production.production.truefoundry.com/)
 
 You can find some sample images in the 'Assets' folder for testing out the streamlit application.
 
